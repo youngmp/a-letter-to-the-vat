@@ -1,6 +1,6 @@
 # A Letter to the Vat
 
-This letter is addressed to young adults.
+Dear students of MAS 4115 Spring 2025,
 
 I enjoy reflecting on Gilbert Harman's thought experiment of the brain in a vat. Hypothetically, it should be possible to sustain someone's brain in a container and feed it electrical signals that mimic real sensory inputs and experiences. A racing heart at seeing your loved ones. The calming sensation of a warm cat purring on your lap. The stress during a high-stakes meeting and the release of tension afterwards. There are interesting and nuanced discussions surrounding this thought experiment that I don't understand and won't get into. I just enjoy being literal with the starting point: our brains are already in skull-shaped vats, filled with cerebrospinal fluid, receiving nothing but electrical and chemical signals from various sensory devices spread throughout our bodies. Every action we make consists of electrical signals discharged in the opposite direction, from the vat to vast numbers of myosin motors, which in turn effect changes in the putative outside world. All my brain has ever really known is a life in this vat, and it is to this vat that I share some thoughts.
 
@@ -38,4 +38,5 @@ But with shackles come the prospect of freedom.
 
 Humanity, more than ever, needs more thoughtful, inquisitive, diligent minds. And please, for one moment, consider that I really am speaking to you directly. I don't need to know who you are to know your potential. Because if you are reading these words, it means you are human, and if you are human, it means your potential is much greater than the world would make you believe.
 
-And so concludes my letter to you, dear reader.
+Sincerely,
+Youngmin Park
