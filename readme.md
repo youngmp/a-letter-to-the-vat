@@ -17,7 +17,9 @@ It's okay to have a little more faith in humanity. We refuse to be silenced to t
 
 It's impossible to underestimate the things you can endure. It's easy to *think* you're incapable of doing this or that. The hard part is trying it anyway. You will never know your full potential unless you try. And yeah, you will fail. A lot. Fucking believe me, I've been there. But it's better to fail now a hundred different times, each more embarrassing than the last, than to wonder ten years from now what it would have been like to try just one thing. The more often you're willing to stomach failure and face the music, the more the world will make sense.
 
-I am reminded of the great Socrates' words, "No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable."
+I am reminded of the great Socrates' words, 
+
+> No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.
 
 The needs of ancient Greece were different. Men were expected to be strong and ready to fight in war. Today, the same sentiment applies in a different context. Of course, man or woman, you can and should develop your physical fitness the best that you can. But what's to keep you from exploring other avenues to the best of your ability? Why not read a book you normally wouldn't consider? Why not learn mathematical proofs? Why not paint? It would be a shame for anyone to grow old without seeing the beauty and strength of which their *mind* is capable.
 
@@ -29,8 +31,8 @@ The fear of mistakes acts like shackles. If you want to control someone, that's 
 
 But with shackles come the prospect of freedom.
 
-> "They did what human beings looking for freedom, throughout history, have often done. They left."<br />
->  - Isabel Wilkerson, *The Warmth of Other Suns*
+> They did what human beings looking for freedom, throughout history, have often done. They left.<br />
+ - Isabel Wilkerson, *The Warmth of Other Suns*
 
 Humanity, more than ever, needs more thoughtful, inquisitive, diligent minds. And please, for one moment, consider that I really am speaking to you directly. I don't need to know who you are to know your potential. Because if you are reading these words, it means you are human, and if you are human, it means your potential is much greater than the world would make you believe.
 
