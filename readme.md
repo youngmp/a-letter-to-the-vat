@@ -40,3 +40,5 @@ Humanity, more than ever, needs more thoughtful, inquisitive, diligent minds. An
 
 Sincerely,
 Youngmin Park
+
+P.S. I've since resumed contact with my dad.
