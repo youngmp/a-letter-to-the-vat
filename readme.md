@@ -42,4 +42,5 @@ Sincerely,
 Youngmin Park
 
 P.S. I've since resumed contact with my dad.
+
 P.S.S. I believe that my dad will make the right decisions. I’m so curious about what that will look like. I haven’t gotten to see anyone make this kind of journey but myself. I know am just ignorant of others’ struggles. But the cool thing will be that my dad will take his own unique path and encounter difficulties unique to him. And I will get to see him grow and be creative and thoughtful and artistic and warm and courageous. And, if we are all a tiny bit lucky, he will surpass me with an effortlessness that humanity simply has never seen before. And he will finally, finally be free. 
